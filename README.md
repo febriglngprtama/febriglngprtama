@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **febri.gilangpratama22@gmail.com**
 
-- ⚡ Fun fact **I think iam Big**
+- ⚡ Fun fact **I think iam funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
