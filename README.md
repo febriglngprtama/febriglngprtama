@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=febriglngprtama&label=Profile%20views&color=0e75b6&style=flat" alt="febriglngprtama" /> </p>
 
-- 🌱 I’m currently learning **DOTNET, GO, React Native, and Tailwind**
+- 🌱 I’m currently learning **GO**
 
 - 📫 How to reach me **febri.gilangpratama22@gmail.com**
 
